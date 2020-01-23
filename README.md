@@ -1,5 +1,5 @@
 # chaosandanarchy
-Direct Houdini to deadline vopnet
+Direct Houdini to deadline sopnet
 
 Not as fast as a shelftool, but completely native and encapsulated within the hipfile.
 
